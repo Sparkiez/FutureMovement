@@ -1,0 +1,62 @@
+[
+  {
+    "name": "CLIENT TYPE",
+    "length": 4,
+    "colStart": 4,
+    "colEnd": 7
+  },
+  {
+    "name": "CLIENT NUMBER",
+    "length": 4,
+    "colStart": 8,
+    "colEnd": 11
+  },
+  {
+    "name": "ACCOUNT_NUMBER",
+    "length": 4,
+    "colStart": 12,
+    "colEnd": 15
+  },
+  {
+    "name": "SUBACCOUNT NUMBER",
+    "length": 4,
+    "colStart": 16,
+    "colEnd": 19
+  },
+  {
+    "name": "PRODUCT GROUP CODE",
+    "length": 2,
+    "colStart": 26,
+    "colEnd": 27
+  },
+  {
+    "name": "EXCHANGE CODE",
+    "length": 4,
+    "colStart": 28,
+    "colEnd": 31
+  },
+  {
+    "name": "SYMBOL",
+    "length": 6,
+    "colStart": 32,
+    "colEnd": 37
+  },
+  {
+    "name": "EXPIRATION DATE",
+    "length": 8,
+    "colStart": 38,
+    "colEnd": 45
+  },
+  {
+    "name": "QUANTITY LONG",
+    "length": 10,
+    "colStart": 53,
+    "colEnd": 62
+  },
+  {
+    "name": "QUANTITY SHORT",
+    "length": 10,
+    "colStart": 64,
+    "colEnd": 73
+  }
+]
